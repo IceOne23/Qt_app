@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-c2f18a449cd7695c4964.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "String_sort",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "String_sort::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-String_sort-Debug-410eb841f1533f90e553.json",
+					"name" : "String_sort",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "String_sort_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-String_sort_autogen-Debug-5e7f87b4afe7d2b9c8ab.json",
+					"name" : "String_sort_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "String_sort_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-String_sort_autogen_timestamp_deps-Debug-4652c6506b95d6ed926d.json",
+					"name" : "String_sort_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/Qt projects/String_sort/build/Desktop_Qt_shared_MinGW_w64_MINGW64_MSYS2-Debug",
+		"source" : "D:/Qt projects/String_sort"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

@@ -1,0 +1,37 @@
+# ninja log v6
+13	738	7483811592271835	String_sort_autogen/timestamp	17736bdf949c078d
+13	738	7483811592271835	String_sort_autogen/mocs_compilation.cpp	17736bdf949c078d
+13	738	7483811592271835	D:/Qt projects/String_sort/build/Desktop_Qt_shared_MinGW_w64_MINGW64_MSYS2-Debug/String_sort_autogen/timestamp	17736bdf949c078d
+13	738	7483811592271835	D:/Qt projects/String_sort/build/Desktop_Qt_shared_MinGW_w64_MINGW64_MSYS2-Debug/String_sort_autogen/mocs_compilation.cpp	17736bdf949c078d
+744	2472	7483811593122026	CMakeFiles/String_sort.dir/String_sort_autogen/mocs_compilation.cpp.obj	557ba670d1f6d525
+761	2665	7483811593292067	CMakeFiles/String_sort.dir/mainwindow.cpp.obj	594f57fe91d0350
+752	3680	7483811593202045	CMakeFiles/String_sort.dir/main.cpp.obj	2d93f8b2ac425665
+3681	3897	7483811622487266	String_sort.exe	d49e79ada777b174
+21	208	7483830271627735	String_sort_autogen/timestamp	17736bdf949c078d
+21	208	7483830271627735	String_sort_autogen/mocs_compilation.cpp	17736bdf949c078d
+21	208	7483830271627735	D:/Qt projects/String_sort/build/Desktop_Qt_shared_MinGW_w64_MINGW64_MSYS2-Debug/String_sort_autogen/timestamp	17736bdf949c078d
+21	208	7483830271627735	D:/Qt projects/String_sort/build/Desktop_Qt_shared_MinGW_w64_MINGW64_MSYS2-Debug/String_sort_autogen/mocs_compilation.cpp	17736bdf949c078d
+215	2054	7483830273569567	CMakeFiles/String_sort.dir/mainwindow.cpp.obj	594f57fe91d0350
+208	3117	7483830273499550	CMakeFiles/String_sort.dir/main.cpp.obj	2d93f8b2ac425665
+3117	3339	7483830302579454	String_sort.exe	d49e79ada777b174
+18	192	7483836391762134	String_sort_autogen/timestamp	17736bdf949c078d
+18	192	7483836391762134	String_sort_autogen/mocs_compilation.cpp	17736bdf949c078d
+18	192	7483836391762134	D:/Qt projects/String_sort/build/Desktop_Qt_shared_MinGW_w64_MINGW64_MSYS2-Debug/String_sort_autogen/timestamp	17736bdf949c078d
+18	192	7483836391762134	D:/Qt projects/String_sort/build/Desktop_Qt_shared_MinGW_w64_MINGW64_MSYS2-Debug/String_sort_autogen/mocs_compilation.cpp	17736bdf949c078d
+200	1951	7483836393584634	CMakeFiles/String_sort.dir/mainwindow.cpp.obj	594f57fe91d0350
+193	2998	7483836393512273	CMakeFiles/String_sort.dir/main.cpp.obj	2d93f8b2ac425665
+2999	3221	7483836421563566	String_sort.exe	d49e79ada777b174
+23	212	7483836823677510	String_sort_autogen/timestamp	17736bdf949c078d
+23	212	7483836823677510	String_sort_autogen/mocs_compilation.cpp	17736bdf949c078d
+23	212	7483836823677510	D:/Qt projects/String_sort/build/Desktop_Qt_shared_MinGW_w64_MINGW64_MSYS2-Debug/String_sort_autogen/timestamp	17736bdf949c078d
+23	212	7483836823677510	D:/Qt projects/String_sort/build/Desktop_Qt_shared_MinGW_w64_MINGW64_MSYS2-Debug/String_sort_autogen/mocs_compilation.cpp	17736bdf949c078d
+219	1970	7483836825645143	CMakeFiles/String_sort.dir/mainwindow.cpp.obj	594f57fe91d0350
+212	3009	7483836825573902	CMakeFiles/String_sort.dir/main.cpp.obj	2d93f8b2ac425665
+3009	3231	7483836853535874	String_sort.exe	d49e79ada777b174
+19	194	7483837379923324	String_sort_autogen/timestamp	17736bdf949c078d
+19	194	7483837379923324	String_sort_autogen/mocs_compilation.cpp	17736bdf949c078d
+19	194	7483837379923324	D:/Qt projects/String_sort/build/Desktop_Qt_shared_MinGW_w64_MINGW64_MSYS2-Debug/String_sort_autogen/timestamp	17736bdf949c078d
+19	194	7483837379923324	D:/Qt projects/String_sort/build/Desktop_Qt_shared_MinGW_w64_MINGW64_MSYS2-Debug/String_sort_autogen/mocs_compilation.cpp	17736bdf949c078d
+201	1951	7483837381753481	CMakeFiles/String_sort.dir/mainwindow.cpp.obj	594f57fe91d0350
+194	3010	7483837381683471	CMakeFiles/String_sort.dir/main.cpp.obj	2d93f8b2ac425665
+3010	3230	7483837409838928	String_sort.exe	d49e79ada777b174

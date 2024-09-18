@@ -1,0 +1,9 @@
+D:/Qt projects/String_sort/build/Desktop_Qt_shared_MinGW_w64_MINGW64_MSYS2-Debug/CMakeFiles/String_sort.dir
+D:/Qt projects/String_sort/build/Desktop_Qt_shared_MinGW_w64_MINGW64_MSYS2-Debug/CMakeFiles/edit_cache.dir
+D:/Qt projects/String_sort/build/Desktop_Qt_shared_MinGW_w64_MINGW64_MSYS2-Debug/CMakeFiles/rebuild_cache.dir
+D:/Qt projects/String_sort/build/Desktop_Qt_shared_MinGW_w64_MINGW64_MSYS2-Debug/CMakeFiles/list_install_components.dir
+D:/Qt projects/String_sort/build/Desktop_Qt_shared_MinGW_w64_MINGW64_MSYS2-Debug/CMakeFiles/install.dir
+D:/Qt projects/String_sort/build/Desktop_Qt_shared_MinGW_w64_MINGW64_MSYS2-Debug/CMakeFiles/install/local.dir
+D:/Qt projects/String_sort/build/Desktop_Qt_shared_MinGW_w64_MINGW64_MSYS2-Debug/CMakeFiles/install/strip.dir
+D:/Qt projects/String_sort/build/Desktop_Qt_shared_MinGW_w64_MINGW64_MSYS2-Debug/CMakeFiles/String_sort_autogen_timestamp_deps.dir
+D:/Qt projects/String_sort/build/Desktop_Qt_shared_MinGW_w64_MINGW64_MSYS2-Debug/CMakeFiles/String_sort_autogen.dir
